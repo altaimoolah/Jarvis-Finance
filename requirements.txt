@@ -1,0 +1,7 @@
+python-telegram-bot==20.*
+Flask
+yfinance
+mplfinance
+pandas
+matplotlib
+requests   # for news fetching
